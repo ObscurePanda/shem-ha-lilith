@@ -1,5 +1,7 @@
 # Shem ha-Lilith
 
+![Lilith](lilithmain.png)
+
 **The Blasphemous Name • The Path of Exile**
 
 This repository holds the living archive of a private Qliphothic order dedicated to Lilith — not as a reclaimed goddess or modern archetype, but as the primordial Night Hag, devourer of the weak, and Dark Feminine counterpart to YHVH.
