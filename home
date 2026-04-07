@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lilith Occult Order - The Dark Mother</title>
+    <title>Shem ha-Lilith | The Dark Mother</title>
     <style>
         body {
             background-color: #0a0a0a;
@@ -39,56 +39,63 @@
             border: 2px solid #4a2c0f;
             box-shadow: 0 0 20px rgba(179, 60, 46, 0.3);
         }
-        p, ul {
+        p, ul, ol {
             font-size: 1.1em;
         }
-        ul {
-            padding-left: 20px;
+        ul, ol {
+            padding-left: 25px;
         }
         .warning {
             color: #b33c2e;
             font-weight: bold;
             text-align: center;
             margin: 30px 0;
+            border: 1px solid #4a2c0f;
+            padding: 15px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 0.9em;
+            color: #666;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Lilith Occult Order</h1>
-        <p style="text-align: center; font-style: italic;">Dedicated to the Mother of Demons and Abominations</p>
+        <h1>Shem ha-Lilith</h1>
+        <p style="text-align: center; font-style: italic; color: #b33c2e;">The Blasphemous Name • Path of Exile</p>
         
-        <img src="lilith-burney-relief.jpg" alt="Lilith - Burney Relief style, Mother of Demons" width="800" height="auto">
+        <img src="lilith-burney-relief.jpg" alt="Lilith - Burney Relief, Mother of Demons and Abominations" width="800">
         
-        <h2>The Path of the Dark Mother</h2>
-        <p>This is a private, serious occult order centered on Lilith in her ancient form as the Queen of the Night and creatrix of the night side.</p>
-        <p>We work directly with her current through ritual, study of primary sources (Mesopotamian Lilitu lore, Zohar, Alphabet of Ben Sira), and personal practice. The focus is real experiential gnosis and birthing personal power from the Qliphothic realms.</p>
+        <h2>The Dark Mother</h2>
+        <p>This is the private living archive of a serious Qliphothic order dedicated to Lilith as the primordial Mother of Demons and Abominations.</p>
+        <p>We work with her ancient form from the Burney Relief — the Night Hag, creatrix of the Sitra Ahra, who births lilim, succubi, incubi and all abominations from the void.</p>
         
         <h2>Who This Order Is For</h2>
         <ul>
-            <li>Practitioners who approach Lilith with genuine respect and commitment</li>
-            <li>Those willing to do the work: regular dark moon rituals, study, and honest self-confrontation</li>
-            <li>Seekers who treat the occult as living reality, not entertainment or symbolism</li>
+            <li>Practitioners who treat Lilith as living reality, not symbol or meme</li>
+            <li>Those ready for real ritual work, study, and dark moon practice</li>
+            <li>Seekers who accept the raw law of the Other Side without softening it</li>
         </ul>
         
         <div class="warning">
-            This path demands sincerity. Mockery, spectacle, or treating the work as a game will result in removal. 
+            This path is not for everyone. Mockery, spectacle, edge-lord behavior, or atheist materialist attitudes will get you removed. 
             The current itself filters the unworthy.
         </div>
         
         <h2>How to Begin</h2>
-        <p>If you are serious about joining:</p>
         <ol>
-            <li>Perform the solitary Burney Relief invocation during the next dark moon.</li>
-            <li>Document any vision, sign, or personal result you receive.</li>
-            <li>Contact the council with your experience for review.</li>
+            <li>Perform the solitary Burney Relief invocation on the next dark moon.</li>
+            <li>Document any vision, sign, or personal abomination that arises.</li>
+            <li>Submit your experience to the council for review.</li>
         </ol>
-        <p>Entry is by invitation only after successful initiation.</p>
+        <p>Entry is invitation-only after the initiation is accepted.</p>
         
-        <p style="text-align: center; margin-top: 50px; font-size: 0.9em;">
+        <div class="footer">
             Private • Serious • Initiatory<br>
             Lilith guards her own.
-        </p>
+        </div>
     </div>
 </body>
 </html>
